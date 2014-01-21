@@ -5,7 +5,7 @@ Git Workflow
 
 The most important rule of this workflow, is that the developer who is writing the code is responsible for making sure it goes through the entire process smoothly and in a timely manner.
 
-Other developers need to reach out and help in anyway possible, even if it's not a piece of code you have worked on in the past or the code is in a language you don't know.
+Other developers need to reach out and help in any way possible, even if it's not a piece of code you have worked on in the past or the code is in a language you don't know.
 
 While this may seem like a lot of steps, it's very verbose and probably repeats a lot of things you're already doing. From experience I can say that it becomes very natural after a little while, and you stop really noticing it at all.
 
