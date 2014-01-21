@@ -1,6 +1,10 @@
 Git Workflow
 ============
 
+This is a document that I have been working on for a while, I've used it across multiple teams. Although it caters towards agile methodology, it's not completely tied to it. Most of this document is obvious things that most developers already do.
+
+It also requires a good amount of knowledge of git/github. You can certainly use other tools and get the same value, but you might have to do some translating.
+
 ## Preamble
 
 The most important rule of this workflow, is that the developer who is writing the code is responsible for making sure it goes through the entire process smoothly and in a timely manner.
@@ -9,7 +13,7 @@ Other developers need to reach out and help in any way possible, even if it's no
 
 While this may seem like a lot of steps, it's very verbose and probably repeats a lot of things you're already doing. From experience I can say that it becomes very natural after a little while, and you stop really noticing it at all.
 
-Of course there is no One True Way™ of working with code across teams, it's a never ending process of improving upon your existing workflow. No document should keep you from improving things, and you should always use your best judgement. This is merely the process I've made for myself that I've created while working with several teams. 
+Of course there is no One True Way™ of working with code across teams, it's a never ending process of improving upon your existing workflow. No document should keep you from improving things, and you should always use your best judgement.
 
 ## New Code
 
