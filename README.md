@@ -143,3 +143,10 @@ Working branches should be named: `[initials]_[branch_name]`
 Generally these are to test a new idea, or see how plausible a feature is. They can be used to make architectural decisions, or to educate oneself about a new piece of technology. 
 
 Spike branches should be named: `spike_[branch_name]`
+
+## Additional Resources
+
+- [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
+- [Github: Understanding the Git Flow](http://guides.github.com/overviews/flow/)
+- [Issues with Git Flow](http://scottchacon.com/2011/08/31/github-flow.html)
